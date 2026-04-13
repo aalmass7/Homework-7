@@ -1,4 +1,4 @@
-package com.narxoz.rpg.strategy.impl;
+package com.narxoz.rpg.observer.impl;
 
 import com.narxoz.rpg.boss.DungeonBoss;
 import com.narxoz.rpg.combatant.StrategyHero;
